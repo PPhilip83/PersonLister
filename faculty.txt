@@ -1,0 +1,7 @@
+99|Dr.|Victor|Frankenstein|02/29/1974|MD
+100|Mr.|Sherlock|Holmes|01/31/1888|PHD~BS~MBA
+101|Dr.|John|Watson|01/31/1888|MD~MBA
+102|Dr.|Leonard|McCoy|03/01/2245|MD
+103|Miss|Alma|Peregrine|05/01/1909|BS
+55|Ms.|Mary|Richards|12/29/1936|BA
+66|Mr.|Rocket J|Squirrel|04/01/1960|AS

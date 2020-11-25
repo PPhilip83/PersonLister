@@ -1,0 +1,6 @@
+1|Mr.|Montgomery|Burns|02/14/1898|Senior
+2|Mr|Bart|Simpson|04/01/1990|Sophomore
+3|Miss.|Betty|Boop|05/01/1993|Freshman
+4|Miss|Lisa|Simpson|05/07/1991|Freshman
+5|Dr.|Julius|Erving|02/29/1974|Sophomore
+6|Mr|Allen|Smithee|07/31/1974|Sophomore
